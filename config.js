@@ -9,11 +9,11 @@ SESSION_ID: process.env.SESSION_ID || "SHABAN-MD~XUEglDJT#71C-75iNa0mHu8dbXkR0qE
 // add your Session Id 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 // make true or false status auto seen
-AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
+AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 // make true if you want auto reply on status 
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 // make true if you want auto reply on status 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS charutha*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS CHARUTHA*",
 // set the auto reply massage on status reply
 WELCOME: process.env.WELCOME || "false",
 // true if want welcome and goodbye msg in groups    
