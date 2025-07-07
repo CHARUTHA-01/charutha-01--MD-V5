@@ -1,14 +1,14 @@
 {
-    "bot-name": "SHABAN-MD",
-    "description": "Whiskey Sockets Baileys Whatsapp bot By Mr Shaban",
-    "logo": "https://i.ibb.co/qYtzFsVp/shaban-md.jpg",
+    "bot-name": "charutha-MD",
+    "description": "Whiskey Sockets Baileys Whatsapp bot By Mr charutha",
+    "logo": "https://i.ibb.co/qYtzFsVp/charutha-md.jpg",
     "keywords": ["bot"],
     "documentation-link": "https://sbn-md-pair.zone.id/",
     "owner-verification": "talkdrovelover@gmail.com",
   
     "env": {
       "SESSION_ID": {
-        "description": "Put your SESSION_ID here. Make sure it starts with SHABAN-MD~  or get session id from here,  https://pti-pair.onrender.com/",
+        "description": "Put your SESSION_ID here. Make sure it starts with charutha-MD~  or get session id from here,  https://pti-pair.onrender.com/",
         "value":"",
         "required": true
         
@@ -24,7 +24,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "𝚂ʜᴀʙᴀɴ-ᴍᴅ-𝚆.𝙰 𝙱𝙾𝚃"
+      "value": "charutha-ᴍᴅ-𝚆.𝙰 𝙱𝙾𝚃"
     }, 
       
     "PREFIX": {
@@ -81,27 +81,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*𝑺𝒉𝒂𝒃𝒂𝒏 𝑴𝒅 𝑩𝒐𝒕 𝑽𝒊𝒆𝒘𝒆𝒅 𝒀𝒐𝒖𝒓 𝑺𝒕𝒂𝒕𝒖𝒔 🦄*"
+      "value": "*CHARUTHA  𝑴𝒅 𝑩𝒐𝒕 𝑽𝒊𝒆𝒘𝒆𝒅 𝒀𝒐𝒖𝒓 𝑺𝒕𝒂𝒕𝒖𝒔 🦄*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "𝐌𝐫 𝐒𝐡𝐚𝐛𝐚𝐧"
+      "value": "𝐌𝐫 CHARUTHA"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923043788282"
+      "value": "94725519305"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "SHABAN-MD"
+      "value": "CHARUTHA-MD"
 
       }, 
 
@@ -121,7 +121,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Sʜᴀʙᴀɴ*"
+      "value": "*© Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ charutha*"
     },
     
     "AUTO_RECORDING": {
