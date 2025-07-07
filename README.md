@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=8A2BE2&center=true&width=1000&height=200&lines=SHABAN-MD" alt="Typing SVG" /></a>
   </div>
-<a><img src='https://i.ibb.co/b5WCv61V/shaban-md.jpg'/></a>
+<a><img src='https://i.ibb.co/b5WCv61V/charutha-md.jpg'/></a>
 
 <p align="center">
   <a href="https://github.com/charutha40"><img title="Developer" src="https://img.shields.io/badge/Author-charutha%20MD-FF00FF.svg?style=big-square&logo=github" /></a>
@@ -9,7 +9,7 @@
 <div align="center">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+SHABAN+MD+BETTER+OPTION;🔥+The+Most+Powerful+WhatsApp+Bot;💻+developed+by+MR+SHABAN;🚀+charutha-MD+V5+Solutions;🌈+Fast+⚡+Secure+🔒+Reliable+✅" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+charutha+MD+BETTER+OPTION;🔥+The+Most+Powerful+WhatsApp+Bot;💻+developed+by+MR+charutha;🚀+charutha-MD+V5+Solutions;🌈+Fast+⚡+Secure+🔒+Reliable+✅" alt="Typing Animation">
 </h1>
   
 [![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-9ACD32?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029VazjYjoDDmFZTZ9Ech3O)
@@ -17,7 +17,7 @@
 
 ---------
 
- <p align="center"><img src="https://profile-counter.glitch.me/{charutha-MD}/count.svg" alt="charutha40 :: Visitor's Count" old_src="https://profile-counter.glitch.me/{MRSHABAN40}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{charutha-MD}/count.svg" alt="charutha40 :: Visitor's Count" old_src="https://profile-counter.glitch.me/{MRcharutha40}/count.svg" /></p>
 
 
 <p align="center">
@@ -39,7 +39,7 @@
 
   
 <a
-href="https://github.com/MRSHABAN40/SHABAN-MD-V5/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+href="https://github.com/MRcharutha40/charutha-MD-V5/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 
@@ -69,7 +69,7 @@ href="https://github.com/MRSHABAN40/SHABAN-MD-V5/graphs/commit-activity"><img he
     </tr>
     <tr>
       <td><a href="https://dashboard.render.com/web/new" target="_blank"><img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa"/></a></td>
-      <td><a href="https://host-shabanmd.zone.id/" target="_blank"><img src="https://img.shields.io/badge/Free VPS-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://host-charuthamd.zone.id/" target="_blank"><img src="https://img.shields.io/badge/Free VPS-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
     </tr>
   </table>
 </div>
